@@ -19,7 +19,7 @@ This project is built using the following technologies:
 
 ## Installation :-
 
-- Clone the repository: git clone <a href="https://github.com/Supriyasingh2/Covid-19-Analysis.git">https://github.com/Supriyasingh2/Covid-19-Analysis.git</a>
+- Clone the repository: git clone <a href="https://github.com/Shashank-2202/Covid-19-Analysis">https://github.com/Shashank-2202/Covid-19-Analysis</a>
 - Navigate to the project directory: cd Covid-19-Analysis
 - Open the <a href="index.html">index.html</a> file in your preferred web browser.
 
